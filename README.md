@@ -148,11 +148,15 @@ Several long training runs were completed, each revealing a different emergent s
 
 ### Run 1 — ~20M steps
 
+![Unexpected Strategy](Assets/media/run1.gif)
+
 This run produced the most unusual result. The policy developed different behavior for the two sides even though the observation space was designed to be symmetric.
 
 The cause was a collision-related sign issue whose behavior was not stable across Unity restarts. In practice, this introduced unintended asymmetry into the reward feedback, and the policy learned side-dependent behavior from it.
 
 ### Run 2 — ~12M steps
+
+![Balanced Strategy](Assets/media/run2.gif)
 
 A more conventional policy.
 
@@ -160,11 +164,15 @@ The agents blocked, returned and attacked with reasonable frequency. This was th
 
 ### Run 3 — ~50M steps
 
+![Reward Exploitation](Assets/media/run3.gif)
+
 This longer run revealed a less human-like but still highly effective strategy.
 
 Instead of ending rallies by scoring, the agents learned to keep the puck active by repeatedly redirecting it between each other and the walls near the goal area. The policy found a stable reward pattern in prolonged exchanges and avoided committing to risky shots that would terminate the rally.
 
 ### Run 4 — final
+
+![Final Strategy](Assets/media/run4.gif)
 
 This is the most successful run.
 
@@ -260,7 +268,7 @@ Because the reward structure remained comparable across the final experiments, t
 
 The project can also be evaluated manually against the trained policy.
 
-![Play Against the Agent](Assets/media/play_vs_agent.gif)
+![Human vs AI](Assets/media/human_vs_ai.gif)
 
 ---
 
