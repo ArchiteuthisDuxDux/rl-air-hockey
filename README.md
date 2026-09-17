@@ -51,7 +51,9 @@ The central idea is not simply that one policy plays both sides, but that the tw
 
 ## Final policy playing in the arena
 
-![Final policy gameplay](media/final_policy.gif)
+![Final policy gameplay 1](media/final_policy_1.gif)
+
+![Final policy gameplay 2](media/final_policy_2.gif)
 
 A full evaluation video without cuts or scripted actions is available on YouTube.
 
@@ -91,7 +93,7 @@ This was a central design goal of the project.
 
 ### Symmetric local representation
 
-![Symmetric observations](media/symmetric_observations.gif)
+![Symmetric observations](media/symmetric_observations.png)
 
 *Both agents see the game through their own local coordinate frame, so equivalent situations on opposite sides produce the same observation semantics.*
 
@@ -195,9 +197,7 @@ Several behaviors were not explicitly programmed and appeared during training:
 
 ### Emergent defensive positioning
 
-![Defensive positioning](media/defensive_positioning.gif)
-
-*When the opponent gains a shooting opportunity, the agent often retreats toward its own goal and moves into the puck-goal line instead of simply continuing to chase the puck.*
+When the opponent gains a shooting opportunity, the agent often retreats toward its own goal and moves into the puck-goal line instead of simply continuing to chase the puck.
 
 The most interesting behaviors were not scripted tactics, but simple policies that became stable through reward optimization. In particular, the final policy learned to retreat toward its own goal when the opponent had a clear shooting chance, which produces a defensive shape without any hard-coded positioning logic.
 
@@ -244,7 +244,8 @@ TensorBoard graphs were recorded for multiple training runs.
 
 Because the reward structure remained comparable across the final experiments, the curves are useful for comparing policies rather than only reward scale.
 
-![Training progress](media/training_progress.png)
+![Episode Length](media/Episode_Length.png)
+![Cumulative Reward](media/Cumulative_Reward.png)
 
 ---
 
