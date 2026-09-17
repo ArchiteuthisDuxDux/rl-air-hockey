@@ -48,7 +48,7 @@ The central idea is not simply that one policy plays both sides, but that the tw
 
 ### Environment preview
 
-![Air Hockey environment](media/environment_preview.gif)
+![Air Hockey environment](Assets/media/environment_preview.gif)
 
 *A short uncut exchange between two agents controlled by the same policy.*
 
@@ -58,9 +58,9 @@ The central idea is not simply that one policy plays both sides, but that the tw
 
 ## Final policy playing in the arena
 
-![Final policy gameplay 1](media/final_policy_1.gif)
+![Final policy gameplay 1](Assets/media/final_policy_1.gif)
 
-![Final policy gameplay 2](media/final_policy_2.gif)
+![Final policy gameplay 2](Assets/media/final_policy_2.gif)
 
 A full evaluation video without cuts or scripted actions is available on YouTube.
 
@@ -100,7 +100,7 @@ This was a central design goal of the project.
 
 ### Symmetric local representation
 
-![Symmetric observations](media/symmetric_observations.png)
+![Symmetric observations](Assets/media/symmetric_observations.png)
 
 *Both agents see the game through their own local coordinate frame, so equivalent situations on opposite sides produce the same observation semantics.*
 
@@ -158,7 +158,7 @@ Several long training runs were completed, each revealing a different emergent s
 
 ### Run 1 — ~20M steps
 
-![Run 1](media/run1.gif)
+![Run 1](Assets/media/run1.gif)
 
 This run produced the most unusual result. The policy developed different behavior for the two sides even though the observation space was designed to be symmetric.
 
@@ -166,7 +166,7 @@ The cause was a collision-related sign issue whose behavior was not stable acros
 
 ### Run 2 — ~12M steps
 
-![Run 2](media/run2.gif)
+![Run 2](Assets/media/run2.gif)
 
 A more conventional policy.
 
@@ -174,7 +174,7 @@ The agents blocked, returned and attacked with reasonable frequency. This was th
 
 ### Run 3 — ~50M steps
 
-![Run 3](media/run3.gif)
+![Run 3](Assets/media/run3.gif)
 
 This longer run revealed a less human-like but still highly effective strategy.
 
@@ -182,7 +182,7 @@ Instead of ending rallies by scoring, the agents learned to keep the puck active
 
 ### Run 4 — final
 
-![Run 4](media/run4_final.gif)
+![Run 4](Assets/media/run4_final.gif)
 
 This is the most successful run.
 
@@ -251,8 +251,8 @@ TensorBoard graphs were recorded for multiple training runs.
 
 Because the reward structure remained comparable across the final experiments, the curves are useful for comparing policies rather than only reward scale.
 
-![Episode Length](media/Episode_Length.png)
-![Cumulative Reward](media/Cumulative_Reward.png)
+![Episode Length](Assets/media/Episode_Length.png)
+![Cumulative Reward](Assets/media/Cumulative_Reward.png)
 
 ---
 
@@ -283,7 +283,7 @@ Because the reward structure remained comparable across the final experiments, t
 
 The project can also be evaluated manually against the trained policy.
 
-![Human vs AI](media/human_vs_ai.gif)
+![Human vs AI](Assets/media/human_vs_ai.gif)
 
 *Human-controlled mallet playing against the trained policy.*
 
