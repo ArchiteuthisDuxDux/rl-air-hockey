@@ -104,3 +104,38 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# ML-Agents training results:
+# Ignore everything except the final checkpoint/model and their Unity metadata.
+
+/Assets/ML/Training/results/AirHockeyBrain_2/AirHockeyBrain/*
+
+!/Assets/ML/Training/results/AirHockeyBrain_2/AirHockeyBrain/AirHockeyBrain-23160088.pt
+!/Assets/ML/Training/results/AirHockeyBrain_2/AirHockeyBrain/AirHockeyBrain-23160088.pt.meta
+!/Assets/ML/Training/results/AirHockeyBrain_2/AirHockeyBrain/AirHockeyBrain-23160088.onnx
+!/Assets/ML/Training/results/AirHockeyBrain_2/AirHockeyBrain/AirHockeyBrain-23160088.onnx.meta
+
+
+/Assets/ML/Training/results/AirHockeyBrain_3/AirHockeyBrain/*
+
+!/Assets/ML/Training/results/AirHockeyBrain_3/AirHockeyBrain/AirHockeyBrain-18118118.pt
+!/Assets/ML/Training/results/AirHockeyBrain_3/AirHockeyBrain/AirHockeyBrain-18118118.pt.meta
+!/Assets/ML/Training/results/AirHockeyBrain_3/AirHockeyBrain/AirHockeyBrain-18118118.onnx
+!/Assets/ML/Training/results/AirHockeyBrain_3/AirHockeyBrain/AirHockeyBrain-18118118.onnx.meta
+
+
+/Assets/ML/Training/results/AirHockeyBrain_4/AirHockeyBrain/*
+
+!/Assets/ML/Training/results/AirHockeyBrain_4/AirHockeyBrain/AirHockeyBrain-49064144.pt
+!/Assets/ML/Training/results/AirHockeyBrain_4/AirHockeyBrain/AirHockeyBrain-49064144.pt.meta
+!/Assets/ML/Training/results/AirHockeyBrain_4/AirHockeyBrain/AirHockeyBrain-49064144.onnx
+!/Assets/ML/Training/results/AirHockeyBrain_4/AirHockeyBrain/AirHockeyBrain-49064144.onnx.meta
+
+
+/Assets/ML/Training/results/AirHockeyBrain_5/AirHockeyBrain/*
+
+!/Assets/ML/Training/results/AirHockeyBrain_5/AirHockeyBrain/AirHockeyBrain-13306143.pt
+!/Assets/ML/Training/results/AirHockeyBrain_5/AirHockeyBrain/AirHockeyBrain-13306143.pt.meta
+!/Assets/ML/Training/results/AirHockeyBrain_5/AirHockeyBrain/AirHockeyBrain-13306143.onnx
+!/Assets/ML/Training/results/AirHockeyBrain_5/AirHockeyBrain/AirHockeyBrain-13306143.onnx.meta
+

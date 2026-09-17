@@ -1,0 +1,398 @@
+{
+    "AirHockeyBrain": {
+        "checkpoints": [
+            {
+                "steps": 32150,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-32150.onnx",
+                "reward": -1.4218006438397346,
+                "creation_time": 1784146316.9287157,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-32150.pt"
+                ]
+            },
+            {
+                "steps": 41694,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-41694.onnx",
+                "reward": -0.16191416784473087,
+                "creation_time": 1784146424.4775398,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-41694.pt"
+                ]
+            },
+            {
+                "steps": 499770,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-499770.onnx",
+                "reward": 0.3542241759855172,
+                "creation_time": 1784146741.4739776,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-499770.pt"
+                ]
+            },
+            {
+                "steps": 659740,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-659740.onnx",
+                "reward": 0.7945570855037026,
+                "creation_time": 1784146859.116811,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-659740.pt"
+                ]
+            },
+            {
+                "steps": 999790,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-999790.onnx",
+                "reward": 0.28016912192106247,
+                "creation_time": 1784147081.8746736,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-999790.pt"
+                ]
+            },
+            {
+                "steps": 1499916,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-1499916.onnx",
+                "reward": 1.4453074890706274,
+                "creation_time": 1784147389.0477552,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-1499916.pt"
+                ]
+            },
+            {
+                "steps": 1999922,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-1999922.onnx",
+                "reward": 4.00193831011653,
+                "creation_time": 1784147695.2942724,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-1999922.pt"
+                ]
+            },
+            {
+                "steps": 2499936,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-2499936.onnx",
+                "reward": 5.485424814047292,
+                "creation_time": 1784148003.5294132,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-2499936.pt"
+                ]
+            },
+            {
+                "steps": 2999918,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-2999918.onnx",
+                "reward": 7.531559090785406,
+                "creation_time": 1784148320.1182802,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-2999918.pt"
+                ]
+            },
+            {
+                "steps": 3499802,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-3499802.onnx",
+                "reward": 9.619641176585493,
+                "creation_time": 1784148635.314358,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-3499802.pt"
+                ]
+            },
+            {
+                "steps": 3999958,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-3999958.onnx",
+                "reward": 11.167390646903138,
+                "creation_time": 1784148946.9550433,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-3999958.pt"
+                ]
+            },
+            {
+                "steps": 4499954,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-4499954.onnx",
+                "reward": 11.075215369462967,
+                "creation_time": 1784149254.2829056,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-4499954.pt"
+                ]
+            },
+            {
+                "steps": 4999900,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-4999900.onnx",
+                "reward": 14.359561510694524,
+                "creation_time": 1784149558.1161172,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-4999900.pt"
+                ]
+            },
+            {
+                "steps": 5499896,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-5499896.onnx",
+                "reward": 19.1254677710862,
+                "creation_time": 1784149857.3249063,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-5499896.pt"
+                ]
+            },
+            {
+                "steps": 5999768,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-5999768.onnx",
+                "reward": 25.85504452174618,
+                "creation_time": 1784150161.5761583,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-5999768.pt"
+                ]
+            },
+            {
+                "steps": 6499965,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-6499965.onnx",
+                "reward": 25.147588024618194,
+                "creation_time": 1784150474.052899,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-6499965.pt"
+                ]
+            },
+            {
+                "steps": 6999994,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-6999994.onnx",
+                "reward": 29.90421749180869,
+                "creation_time": 1784150789.6371474,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-6999994.pt"
+                ]
+            },
+            {
+                "steps": 7474004,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-7474004.onnx",
+                "reward": 24.7610254406929,
+                "creation_time": 1784151081.8054633,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-7474004.pt"
+                ]
+            },
+            {
+                "steps": 7499844,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-7499844.onnx",
+                "reward": 16.642679818667645,
+                "creation_time": 1784151154.7562044,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-7499844.pt"
+                ]
+            },
+            {
+                "steps": 7999800,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-7999800.onnx",
+                "reward": 20.272740994559395,
+                "creation_time": 1784151453.3945956,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-7999800.pt"
+                ]
+            },
+            {
+                "steps": 8499904,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-8499904.onnx",
+                "reward": 19.153090238571167,
+                "creation_time": 1784151762.7208288,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-8499904.pt"
+                ]
+            },
+            {
+                "steps": 8999954,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-8999954.onnx",
+                "reward": 27.478872175328434,
+                "creation_time": 1784152070.7485878,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-8999954.pt"
+                ]
+            },
+            {
+                "steps": 9499886,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-9499886.onnx",
+                "reward": 23.636315940455958,
+                "creation_time": 1784152391.3260505,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-9499886.pt"
+                ]
+            },
+            {
+                "steps": 9999778,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-9999778.onnx",
+                "reward": 26.861017339652584,
+                "creation_time": 1784152712.3630505,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-9999778.pt"
+                ]
+            },
+            {
+                "steps": 10499872,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-10499872.onnx",
+                "reward": 30.56660741461175,
+                "creation_time": 1784153036.570089,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-10499872.pt"
+                ]
+            },
+            {
+                "steps": 10576278,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-10576278.onnx",
+                "reward": null,
+                "creation_time": 1784153084.4027643,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-10576278.pt"
+                ]
+            },
+            {
+                "steps": 10999926,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-10999926.onnx",
+                "reward": 33.875670163581766,
+                "creation_time": 1784153782.9249737,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-10999926.pt"
+                ]
+            },
+            {
+                "steps": 11499994,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-11499994.onnx",
+                "reward": 32.54758114412427,
+                "creation_time": 1784154119.1835063,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-11499994.pt"
+                ]
+            },
+            {
+                "steps": 11999918,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-11999918.onnx",
+                "reward": 44.266125705838206,
+                "creation_time": 1784154456.719424,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-11999918.pt"
+                ]
+            },
+            {
+                "steps": 12499902,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-12499902.onnx",
+                "reward": 34.11934766545892,
+                "creation_time": 1784154790.6918583,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-12499902.pt"
+                ]
+            },
+            {
+                "steps": 12999846,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-12999846.onnx",
+                "reward": 28.22639405887042,
+                "creation_time": 1784155124.061906,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-12999846.pt"
+                ]
+            },
+            {
+                "steps": 13499916,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-13499916.onnx",
+                "reward": 32.579865076849536,
+                "creation_time": 1784155454.115365,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-13499916.pt"
+                ]
+            },
+            {
+                "steps": 13999924,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-13999924.onnx",
+                "reward": 36.44916806762156,
+                "creation_time": 1784155787.554204,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-13999924.pt"
+                ]
+            },
+            {
+                "steps": 14499974,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-14499974.onnx",
+                "reward": 31.463972069647003,
+                "creation_time": 1784156091.6631203,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-14499974.pt"
+                ]
+            },
+            {
+                "steps": 14999822,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-14999822.onnx",
+                "reward": null,
+                "creation_time": 1784156431.369105,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-14999822.pt"
+                ]
+            },
+            {
+                "steps": 15499772,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-15499772.onnx",
+                "reward": 40.39903431236744,
+                "creation_time": 1784156750.8207586,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-15499772.pt"
+                ]
+            },
+            {
+                "steps": 15999842,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-15999842.onnx",
+                "reward": 41.56740554504924,
+                "creation_time": 1784157055.002496,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-15999842.pt"
+                ]
+            },
+            {
+                "steps": 16499980,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-16499980.onnx",
+                "reward": 40.415039671957494,
+                "creation_time": 1784157366.2544951,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-16499980.pt"
+                ]
+            },
+            {
+                "steps": 16999830,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-16999830.onnx",
+                "reward": 37.63255206073623,
+                "creation_time": 1784157660.0202541,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-16999830.pt"
+                ]
+            },
+            {
+                "steps": 17499778,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-17499778.onnx",
+                "reward": 38.56055467438941,
+                "creation_time": 1784157955.125429,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-17499778.pt"
+                ]
+            },
+            {
+                "steps": 17999968,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-17999968.onnx",
+                "reward": 43.48704745206568,
+                "creation_time": 1784158251.7517712,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-17999968.pt"
+                ]
+            },
+            {
+                "steps": 18118118,
+                "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-18118118.onnx",
+                "reward": 41.198220370411875,
+                "creation_time": 1784158326.6223733,
+                "auxillary_file_paths": [
+                    "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-18118118.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 18118118,
+            "file_path": "results\\AirHockeyBrain_3\\AirHockeyBrain.onnx",
+            "reward": 41.198220370411875,
+            "creation_time": 1784158326.6223733,
+            "auxillary_file_paths": [
+                "results\\AirHockeyBrain_3\\AirHockeyBrain\\AirHockeyBrain-18118118.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
