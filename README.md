@@ -1,6 +1,13 @@
 # RL Air Hockey Self-Play
 
+![Banner](Assets/media/banner.png)
+
 > Physics-based air hockey self-play in Unity ML-Agents with fully symmetric observations and a single shared policy.
+
+![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity)
+![ML-Agents](https://img.shields.io/badge/ML--Agents-PPO-blue)
+![Language](https://img.shields.io/badge/C%23-.NET-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A reinforcement learning project where a single neural network controls both sides of an air hockey match in Unity.
 
